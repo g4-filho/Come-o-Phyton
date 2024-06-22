@@ -1,0 +1,2 @@
+time = input('você torce para qual time: ')
+print('ahhh você torce para o ' + time)
