@@ -1,0 +1,7 @@
+nome = input('Qual o Seu nome ?' )
+print('Bom dia ' + nome)
+carro = input('qual o seu carro? ')
+cor = input('qual a cor? ')
+print('entendo, esse ' + cor + ' é bem discreta')
+print()
+print('otimo carro sr(a) ' + nome +  ' seu carro é ' + cor + ' muito bonita')
