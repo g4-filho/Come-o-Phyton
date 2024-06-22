@@ -1,0 +1,4 @@
+nome = 'Fábio'
+nome1 = 'filho'
+print('bom dia ' + nome)
+print('bom dia ' + nome1)
